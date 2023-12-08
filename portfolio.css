@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.reddy {
+    background-color: darkslategray;
+}
+
+.first {
+    padding: 10px;
+}
+
+.para {
+    color: white;
+    font-family: Roboto;
+}
+
+.head {
+    font-family: Sans-Serif;
+    font-size: 32px;
+    margin-left: 18%;
+}
+
+.heading1 {
+    font-family: Roboto;
+    font-size: 50px;
+}
+
+.image {
+    width: 300px;
+    height: 320px;
+    border-radius: 50%;
+    margin-top: 10%;
+}
+
+.secondcontainer {
+    padding: 100px;
+}
+
+.para1 {
+    padding: 14px;
+}
+
+.but {
+    padding: 8px;
+    margin-left: 20px;
+}
+
+.hemanth {
+    margin: 10px;
+}
+
+.hemanth1 {
+    margin: 15px;
+}
+
+.thirdcontainer {
+    padding: 50px;
+    margin: 2px;
+}
+
+.myskills1 {
+    padding: 10px;
+}
+
+.paragraph1 {
+    padding: 7px;
+}
+
+.paragraph {
+    padding: 5px;
+    margin-top: 65px;
+}
+
+.extra {
+    padding: 7px;
+}
+
+.extra1 {
+    padding: 10px;
+}
+
+.headings {
+    text-align: center;
+    font-family: Times New Roman;
+    margin-top: 20px;
+}
+
+.heading1 {
+    text-align: center;
+    font-family: Roboto;
+}
+
+.fourthcontainer {
+    padding: 50px;
+}
+
+.headingscontainer {
+    text-align: center;
+}
+
+.hea {
+    font-size: 20px;
+}
+
+.exploreextra {
+    padding: 8px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+.exploreextra1 {
+    padding: 8px;
+    margin-left: 5%;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+.yummy {
+    margin: 12px;
+    padding: 2px;
+}
+
+.hammaya {
+    margin-top: 5%;
+}
+
+.hammay {
+    padding: 2px;
+}
+
+.image1 {
+    width: 180px;
+    height: 170px;
+    border-radius: 60%;
+}
+
+.adjustimage {
+    background-image: url("https://cutewallpaper.org/21/downloadable-desktop-background/The-best-freeware-desktop-wallpaper-change-every-day-.jpg");
+    background-size: cover;
+    height: 80px;
+}
+
+.image4 {
+    width: 250px;
+    height: 275px;
+    border-radius: 16px;
+}
+
+.project {
+    text-align: center;
+    border-radius: 12px;
+}
+
+.headings10 {
+    font-family: Roman;
+    padding: 9px;
+}
+
+.but1 {
+    background-color: white;
+    border-radius: 18px;
+    padding: 10px;
+    font-family: Times New Roman;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.sixthcontainer {
+    margin-top: 10%;
+}
+
+.one {
+    width: 500px;
+    margin: 2px;
+}
+
+.last {
+    margin: 5%;
+}
+
+.butt {
+    margin: 2%;
+}
